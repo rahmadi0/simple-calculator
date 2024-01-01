@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Coll
+comment1.params=
+comment1.target=Coll()
+comment10.params=e
+comment10.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=void\ setButtons()
+comment3.params=
+comment3.target=void\ setTextArea()
+comment4.params=
+comment4.target=void\ setAction()
+comment5.params=
+comment5.target=java.lang.String\ setQueue()
+comment5.text=int\ randNum\ \=\ 0;\r\n\ \ \ \ \ \ \ \ Random\ x\ \=\ new\ Random();\r\n\ \ \ \ \ \ \ \ String\ s\="\ ";\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ for(int\ i\=0;\ i<5;\ i++){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ randNum\ \=\ x.nextInt(100)\ +\ 1;\r\n\ \ \ \ \ \ \ \ \ \ \ \ stk.push(randNum);\ //add\ to\ stack\r\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.print(randNum\ +\ "\ ");\r\n\ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ s\=s+"\ "+randNum;\r\n}
+comment6.params=
+comment6.target=java.lang.String\ setList()
+comment7.params=
+comment7.target=java.lang.String\ setVector()
+comment8.params=
+comment8.target=java.lang.String\ setMap()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=11

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Calculater
+comment1.params=
+comment1.target=void\ createGUI()
+comment1.text=\r\n\ \ \ \ \ static\ Panel\ //declare\ 2\ panels\r\n\ \ \ \ \ static\ Button\ /declare\ all\ your\ buttons\r\n\ \ \ \ \ static\ JTextField\ //declare\ your\ button;\r\n\ \ \ \ \r\n\ \ \ \ \ static\ JLabel\ //declare\ your\ label;\r\n
+comment2.params=
+comment2.target=void\ addListeners()
+comment3.params=title
+comment3.target=Calculater(java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6
